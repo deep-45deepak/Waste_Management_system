@@ -77,39 +77,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     ];
 
-    // const wasteInfo = {
-    //     Paper: {
-    //         description: "Paper waste includes cardboard, newspapers, magazines, and office paper. It's generally considered dry waste and is highly recyclable.",
-    //         disposal: "Place in the blue recycling bin. Ensure it's clean and dry.",
-    //         reuse: "Cardboard can be reused for storage, crafts, or as a weed barrier in gardens.",
-    //         image: "/placeholder.svg?height=300&width=400"
-    //     },
-    //     Plastic: {
-    //         description: "Plastic waste includes bottles, containers, bags, and packaging. It's a major environmental concern due to its long decomposition time.",
-    //         disposal: "Clean and place in the yellow recycling bin. Check for recycling symbols.",
-    //         reuse: "Many plastic items can be reused for storage, crafts, or as planters.",
-    //         image: "/placeholder.svg?height=300&width=400"
-    //     },
-    //     Glass: {
-    //         description: "Glass waste includes bottles, jars, and broken glass items. It's 100% recyclable and can be recycled endlessly without loss in quality.",
-    //         disposal: "Rinse and place in the green recycling bin. Remove caps and lids.",
-    //         reuse: "Glass jars can be reused for storage, as vases, or for DIY projects.",
-    //         image: "/placeholder.svg?height=300&width=400"
-    //     },
-    //     Metal: {
-    //         description: "Metal waste includes cans, foil, and various scrap metals. It's highly valuable in the recycling process.",
-    //         disposal: "Clean and place in the red recycling bin. Crush cans to save space.",
-    //         reuse: "Metal items can be repurposed for art projects or used as containers.",
-    //         image: "/placeholder.svg?height=300&width=400"
-    //     },
-    //     Organic: {
-    //         description: "Organic waste includes food scraps, yard trimmings, and biodegradable materials. It can be composted to create nutrient-rich soil.",
-    //         disposal: "Place in a compost bin or green waste collection bin.",
-    //         reuse: "Create compost for gardening or donate to local community gardens.",
-    //         image: "/placeholder.svg?height=300&width=400"
-    //     }
-    // };
-
     const wasteTypesContainer = document.getElementById('wasteTypes');
     const wasteCategoriesContainer = document.getElementById('wasteCategories');
     const ecoStepsContainer = document.getElementById('ecoSteps');
@@ -231,25 +198,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 5000);
     }
 
-    // Handle search
-    // if (searchForm) {
-    //     searchForm.addEventListener('submit', (e) => {
-    //         e.preventDefault();
-    //         const query = searchInput.value.toLowerCase();
-    //         const matchedWaste = Object.keys(wasteInfo).find(waste =>
-    //             query.includes(waste.toLowerCase())
-    //         );
-    //         if (matchedWaste) {
-    //             showWasteInfo(matchedWaste);
-    //         } else if (query.includes('cardboard')) {
-    //             showWasteInfo('Paper');
-    //         } else {
-    //             activeWasteInfoContainer.classList.add('hidden');
-    //             setActiveWasteCategory(null);
-    //         }
-    //     });
-    // }
-
     // Handle comment form submission
     if (commentForm) {
         commentForm.addEventListener('submit', (e) => {
@@ -275,31 +223,6 @@ document.addEventListener('DOMContentLoaded', () => {
         ecoTipContainer.querySelector('p').textContent = tip;
     }
 
-    function showWasteInfo(wasteName) {
-        const waste = wasteInfo[wasteName];
-        if (waste) {
-            activeWasteInfoContainer.innerHTML = `
-                <h2 class="text-2xl sm:text-3xl font-bold mb-4">${wasteName} Waste Information</h2>
-                <div class="grid md:grid-cols-2 gap-4 sm:gap-6">
-                    <div>
-                        <p class="mb-4 text-sm sm:text-base">${waste.description}</p>
-                        <h3 class="text-lg sm:text-xl font-semibold mb-2">How to dispose:</h3>
-                        <p class="mb-4 text-sm sm:text-base">${waste.disposal}</p>
-                        <h3 class="text-lg sm:text-xl font-semibold mb-2">How to reuse:</h3>
-                        <p class="text-sm sm:text-base">${waste.reuse}</p>
-                    </div>
-                    <div class="flex justify-center items-center">
-                        <img src="${waste.image}" alt="${wasteName} waste" class="rounded-lg max-w-full h-auto" />
-                    </div>
-                </div>
-            `;
-            activeWasteInfoContainer.classList.remove('hidden');
-            setActiveWasteCategory(wasteName);
-        } else {
-            activeWasteInfoContainer.classList.add('hidden');
-            setActiveWasteCategory(null);
-        }
-    }
 
     function setActiveWasteCategory(activeCategoryName) {
         const categories = wasteCategoriesContainer.children;
