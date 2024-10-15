@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoCoders</title>
+    <link rel="website icon" type="png" href="./database/image.png" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+        @keyframes spin-slow {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        .animate-float {
+            animation: float 6s ease-in-out infinite;
+        }
+        .animate-spin-slow {
+            animation: spin-slow 20s linear infinite;
+        }
+        body {
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body class="flex flex-col min-h-full bg-gradient-to-br from-green-400 via-teal-500 to-blue-500 text-white">
+    <header class="container mx-auto px-4 py-6">
+        <nav class="flex justify-between items-center">
+            <a href="/" class="flex items-center space-x-2 text-2xl font-bold">
+                <i data-lucide="leaf" class="h-8 w-8"></i>
+                <span>EcoCoders</span>
+            </a>
+            <div class="space-x-4">
+                <a href="/index.html" class="hover:underline">Home</a>
+                <a href="/tips.html" class="hover:underline">Tips</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="flex-grow container mx-auto px-4 py-12">
+        <section class="text-center mb-16 animate-fade-in">
+            <h1 class="text-4xl sm:text-5xl md:text-7xl font-extrabold mb-6 drop-shadow-lg">
+                Manage Waste Smartly
+            </h1>
+            <p class="text-lg sm:text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
+                One step at a time towards a cleaner, greener future.
+            </p>
+            <div class="relative max-w-3xl mx-auto">
+                <form id="searchForm" class="relative">
+                    <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                        <i data-lucide="search" class="h-5 w-5 text-gray-400"></i>
+                    </div>
+                    <input
+                        type="text"
+                        placeholder="Search for wastes..."
+                        class="w-full h-12 sm:h-14 pl-10 pr-20 rounded-full text-black text-base sm:text-lg focus:ring-4 focus:ring-green-300 bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg"
+                        id="searchInput"
+                    />
+                    <button id="submitBtn" type="submit" class="absolute right-2 top-2 rounded-full px-4 sm:px-6 py-1 sm:py-2 text-sm sm:text-base bg-green-600 hover:bg-green-700 transition-colors">
+                        Search
+                    </button>
+                </form>
+                <div class="mt-4 flex flex-wrap justify-center gap-2" id="wasteTypes"></div>
+            </div>
+        </section>
+
+        <section class="mb-16">
+            <h2 class="text-2xl sm:text-3xl font-bold mb-6 text-center">Waste Categories</h2>
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-3 sm:gap-4" id="wasteCategories"></div>
+        </section>
+
+        <section id="activeWasteInfo" class="mb-16 bg-white bg-opacity-20 rounded-lg p-4 sm:p-6 backdrop-blur-lg hidden">
+            <p id="result"></p>
+        </section>
+
+        <section class="mb-16">
+            <h2 class="text-2xl sm:text-3xl font-bold mb-6 text-center">Eco-Friendly Practices</h2>
+            <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8" id="ecoSteps"></div>
+        </section>
+
+        <section class="text-center mb-16">
+            <h2 class="text-2xl sm:text-3xl font-bold mb-6">Eco Tip of the Day</h2>
+            <div id="ecoTip" class="bg-white bg-opacity-20 rounded-lg p-4 sm:p-6 backdrop-blur-lg">
+                <p class="text-base sm:text-xl"></p>
+            </div>
+        </section>
+
+        <section class="text-center relative">
+            <div class="absolute inset-0 flex items-center justify-center opacity-10 -z-10">
+                <i data-lucide="leaf" class="w-48 h-48 sm:w-72 sm:h-72 md:w-96 md:h-96"></i>
+            </div>
+            <h2 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6">Join the EcoCoders Community</h2>
+            <p class="text-base sm:text-xl mb-6 sm:mb-8">
+                Connect with like-minded individuals and share your eco-friendly journey.
+            </p>
+            <a href="/tips.html" class="inline-block">
+                <button class="rounded-full px-6 sm:px-8 py-2 sm:py-3 bg-green-600 hover:bg-green-700 transition-colors text-base sm:text-lg">
+                    Explore Tips
+                </button>
+            </a>
+        </section>
+    </main>
+
+    <footer class="bg-green-800 py-6 sm:py-8 mt-auto">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-sm sm:text-base">&copy; 2024 EcoCoders. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="server.js"></script>
+</body>
+</html>

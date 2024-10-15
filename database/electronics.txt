@@ -1,0 +1,151 @@
+
+1. Electronic:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: Varies depending on material
+    - Environmental impact: Toxic chemicals, e-waste
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+2. Smartphone:
+    - Waste management: Recycling, trade-in programs
+    - Decomposition time: ten-to-twenty years
+    - Environmental impact: E-waste, resource extraction
+    - three-Rs: Reduce (keep device longer), Reuse (repurpose), Recycle (responsible recycling)
+>>
+3. Gaming console:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: ten-to-twenty years
+    - Environmental impact: E-waste, energy consumption
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+4. Television:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: ten-to-twenty years
+    - Environmental impact: E-waste, energy consumption
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+5. Scanners:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: five-to-ten years
+    - Environmental impact: E-waste, paper waste
+    - three-Rs: Reduce (digitize documents), Reuse (repurpose), Recycle (responsible recycling)
+>>
+6. Printers:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: five-to-ten years
+    - Environmental impact: E-waste, paper waste, ink cartridges
+    - three-Rs: Reduce (print less), Reuse (repurpose), Recycle (ink cartridges and printer)
+>>
+7. Fax machines:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: five-to-ten years
+    - Environmental impact: E-waste, paper waste
+    - three-Rs: Reduce (digitize documents), Reuse (repurpose), Recycle (responsible recycling)
+>>
+8. DVD players:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: five-to-ten years
+    - Environmental impact: E-waste, energy consumption
+    - three-Rs: Reduce (streaming), Reuse (repurpose), Recycle (responsible recycling)
+>>
+9. Music system:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: five-to-ten years
+    - Environmental impact: E-waste, energy consumption
+    - three-Rs: Reduce (streaming), Reuse (repurpose), Recycle (responsible recycling)
+>>
+10. Music player:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: five-to-ten years
+    - Environmental impact: E-waste, energy consumption
+    - three-Rs: Reduce (streaming), Reuse (repurpose), Recycle (responsible recycling)
+>>
+11. Earbuds:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: two-to-five years
+    - Environmental impact: E-waste, material extraction
+    - three-Rs: Reduce (buy durable), Reuse (repurpose), Recycle (responsible recycling)
+>>
+12. Earphones:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: two-to-five years
+    - Environmental impact: E-waste, material extraction
+    - three-Rs: Reduce (buy durable), Reuse (repurpose), Recycle (responsible recycling)
+>>
+13. Computer:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: ten-to-twenty years
+    - Environmental impact: E-waste, energy consumption
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+14. Refrigerators:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: twenty-to-fifty years
+    - Environmental impact: Energy consumption, refrigerant emissions
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+15. AC:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: ten-to-twenty years
+    - Environmental impact: Energy consumption, refrigerant emissions
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+16. Air conditioners:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: ten-to-twenty years
+    - Environmental impact: Energy consumption, refrigerant emissions
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+17. Dryers:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: ten-to-twenty years
+    - Environmental impact: Energy consumption
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+18. Microwaves:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: five-to-ten years
+    - Environmental impact: Energy consumption, e-waste
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+19. Toaster:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: two-to-five years
+    - Environmental impact: Energy consumption, e-waste
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+20. Vacuum cleaner:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: five-to-ten years
+    - Environmental impact: Energy consumption, e-waste
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+21. Oven:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: ten-to-twenty years
+    - Environmental impact: Energy consumption
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+22. Motors:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: five-to-ten years
+    - Environmental impact: Energy consumption, e-waste
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+23. LED light:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: two-to-five years
+    - Environmental impact: Energy consumption, e-waste
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>
+24. Cable:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: two-to-five years
+    - Environmental impact: E-waste, material extraction
+    - three-Rs: Reduce (buy durable), Reuse (repurpose), Recycle (responsible recycling)
+>>
+25. Fluorescent lamp:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: two-to-five years
+    - Environmental impact: Energy consumption, e-waste
+    - three-Rs: Reduce (buy energy-efficient), Reuse (repurpose), Recycle (responsible recycling)
+>>

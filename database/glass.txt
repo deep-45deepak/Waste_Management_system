@@ -1,0 +1,129 @@
+
+1. Glass:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: Infinite (glass is non-degradable)
+    - Environmental impact: Energy consumption, raw material extraction
+    - three-Rs: Reduce (use alternatives), Reuse (repurpose), Recycle (glass recycling)
+    - Recycling: Collect and sort glass waste, crush and melt it to produce new glass products.
+    - Reuse: Use glass containers for storage or decoration.
+    - Reduce: Use alternatives like plastic or paper containers.
+>>
+2. Glass bottle:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: Infinite (glass is non-degradable)
+    - Environmental impact: Energy consumption, raw material extraction
+    - three-Rs: Reduce (use alternatives), Reuse (repurpose), Recycle (glass recycling)
+    - Recycling: Collect and sort glass bottles, crush and melt them to produce new glass  bottles.
+    - Reuse: Use glass bottles for storage or decoration.
+    - Reduce: Use alternatives like plastic or carton bottles.
+>>
+3. Window glass:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: Infinite (glass is non-degradable)
+    - Environmental impact: Energy consumption, raw material extraction
+    - three-Rs: Reduce (use energy-efficient), Reuse (repurpose), Recycle (glass recycling)
+    - Recycling: Collect and sort window glass, crush and melt it to produce new glass products.
+    - Reuse: Use window glass for DIY projects or decoration.
+    - Reduce: Use energy-efficient windows or alternatives like plastic or wood.
+>>
+4. Mirror:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: Infinite (glass is non-degradable)
+    - Environmental impact: Energy consumption, raw material extraction
+    - three-Rs: Reduce (use alternatives), Reuse (repurpose), Recycle (glass recycling)
+    - Recycling: Collect and sort mirror glass, crush and melt it to produce new glass products.
+    - Reuse: Use mirrors for decoration or DIY projects.
+    - Reduce: Use alternatives like plastic or metal mirrors.
+>>
+5. Jar:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: Infinite (glass is non-degradable)
+    - Environmental impact: Energy consumption, raw material extraction
+    - three-Rs: Reduce (use alternatives), Reuse (repurpose), Recycle (glass recycling)
+    - Recycling: Collect and sort jar glass, crush and melt it to produce new glass products.
+    - Reuse: Use jars for storage or decoration.
+    - Reduce: Use alternatives like plastic or paper containers.
+>>
+6. Glass beaker:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: Infinite (glass is non-degradable)
+    - Environmental impact: Energy consumption, raw material extraction
+    - three-Rs: Reduce (use alternatives), Reuse (repurpose), Recycle (glass recycling)
+    - Recycling: Collect and sort glass beakers, crush and melt them to produce new glass products.
+    - Reuse: Use glass beakers for laboratory or DIY projects.
+    - Reduce: Use alternatives like plastic or borosilicate glass beakers.
+>>
+7. Ceramic Mug:
+    - Material: Ceramic (contains glass), a common material used for tableware.
+    - Waste Type: Dry Waste, which means it's not organic and can't be composted.
+    - How to Dispose: Reuse or repurpose, reducing waste and conserving natural resources.
+    - How to Reuse: Can be reused for hot beverages, providing a creative and eco-friendly solution.
+    - Decomposition Time: Indefinite, as ceramic materials don't break down easily.
+>>
+8. Wine Cork (Natural):
+    - Material: Cork (tree bark) with a glass bottle, a common material used for wine packaging.
+    - Waste Type: Dry Waste, which means it's not organic and can't be composted.
+    - How to Dispose: Compost in 6 months, reducing waste and creating a valuable resource.
+    - How to Reuse: Can be reused as a cork or recycled, providing a creative and eco-friendly solution.
+    - Decomposition Time: 6 months, which is relatively fast compared to other types of waste.
+>>
+9. Glass Pebbles:
+    - Material: Glass, a common material used for decoration and construction.
+    - Waste Type: Dry Waste, which means it's not organic and can't be composted.
+    - How to Dispose: Recycle with glass, reducing waste and conserving natural resources.
+    - How to Reuse: Can be used in crafts or as decorative items, providing a creative and eco-friendly solution.
+    - Decomposition Time: Indefinite, as glass materials don't break down easily.
+>>
+10. Glass Frit:
+    - Material: Crushed glass, a common material used for construction and manufacturing.
+    - Waste Type: Dry Waste, which means it's not organic and can't be composted.
+    - How to Dispose: Recycle with glass, reducing waste and conserving natural resources.
+    - How to Reuse: Can be used in construction or as an abrasive, providing a creative and eco-friendly solution. - Decomposition Time: Indefinite, as glass materials don't break down easily.
+>>
+11. Glass Picture Frame:
+    - Material: Glass and wood or plastic, a common material used for decoration.
+    - Waste Type: Dry Waste, which means it's not organic and can't be composted.
+    - How to Dispose: Recycle glass and dispose of the frame material separately, reducing waste and conserving     natural resources.
+    - How to Reuse: Can be reused for displaying photos or art, providing a creative and eco-friendly solution.
+    - Decomposition Time: Indefinite, as glass materials don't break down easily.
+>>
+12. Glass Marble:
+    - Material: Glass, a common material used for decoration and construction.
+    - Waste Type: Dry Waste, which means it's not organic and can't be composted. : How to Dispose: Recycle with glass, reducing waste and conserving natural resources.
+    - How to Reuse: Can be reused in crafts or games, providing a creative and eco-friendly solution.
+    - Decomposition Time: Indefinite, as glass materials don't break down easily.
+>>
+13. Old Television (CRT):
+    - Material: Glass, electronics, plastic, a common material used for electronics.
+    - Waste Type: Dry Waste, which means it's not organic and can't be composted.
+    - How to Dispose: Recycle at e-waste recycling facilities, reducing waste and conserving natural resources.
+    - How to Reuse: Not reusable, but can be recycled, providing a creative and eco-friendly solution.
+    - Decomposition Time: 100+ years, which is relatively slow compared to other types of waste.
+>>
+14. Light Bulb (Incandescent):
+    - Material: Glass, tungsten, metal, a common material used for lighting.
+    - Waste Type: Dry Waste, which means it's not organic and can't be composted.
+    - How to Dispose: Difficult, requires specialized facilities, reducing waste and conserving natural resources.
+    - How to Reuse: Not reusable, but can be recycled, providing a creative and eco-friendly solution.
+    - Decomposition Time: 100+ years, which is relatively slow compared to other types of waste.
+>>
+15. Wine Cork (Natural)
+    - Material: Cork (tree bark) with a glass bottle, a common material used for wine packaging.
+    - Waste Type : Dry Waste, which means it's not organic and can't be composted.
+    - How to Dispose: Compost in 6 months, reducing waste and creating a valuable resource.
+    - How to Reuse: Can be reused as a cork or recycled, providing a creative and eco-friendly solution.
+    - Decomposition Time: 6 months, which is relatively fast compared to other types of waste.
+>>
+16. LED Bulbs
+    - Material: Glass, aluminum, electronics, a common material used for lighting.
+    - Waste Type: Dry Waste, which means it's not organic and can't be composted.
+    - How to Dispose: Recycle at specialized recyclers, reducing waste and conserving natural resources.
+    - How to Reuse: Not reusable, but can be recycled, providing a creative and eco-friendly solution.
+    - Decomposition Time: 100+ years, which is relatively slow compared to other types of waste.
+>>
+17. Glass Pebbles
+    - Material: Glass, a common material used for decoration and construction.
+    - Waste Type: Dry Waste, which means it's not organic and can't be composted.
+    - How to Dispose: Recycle with glass, reducing waste and conserving natural resources. - How to Reuse: Can be used in crafts or as decorative items, providing a creative and eco-friendly solution.
+    - Decomposition Time: Indefinite, as glass materials don't break down easily.
+>>

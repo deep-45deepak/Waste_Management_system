@@ -1,0 +1,74 @@
+
+1. Metal:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: N/A (metals do not decompose)
+    - Environmental impact: Mining impacts, energy consumption, pollution
+    - three-Rs: Reduce (use sustainable practices), Reuse (repurpose), Recycle (metal recycling)
+    >>
+2. Iron:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: N/A (metals do not decompose)
+    - Environmental impact: Mining impacts, energy consumption, pollution
+    - three-Rs: Reduce (use sustainable practices), Reuse (repurpose), Recycle (metal recycling)
+    >>
+3. Machinery:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: N/A (metals do not decompose)
+    - Environmental impact: Energy consumption, pollution, waste generation
+    - three-Rs: Reduce (use sustainable practices), Reuse (repurpose), Recycle (metal recycling)
+    >>
+4. Car parts:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: N/A (metals do not decompose)
+    - Environmental impact: Energy consumption, pollution, waste generation
+    - three-Rs: Reduce (use sustainable practices), Reuse (repurpose), Recycle (metal recycling)
+    >>
+5. Can:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: N/A (metals do not decompose)
+    - Environmental impact: Energy consumption, pollution, waste generation
+    - three-Rs: Reduce (use reusable alternatives), Reuse (repurpose), Recycle (metal recycling)
+    >>
+6. Foil:
+    - Waste management: Recycling, proper disposal
+    - Decomposition time: N/A (metals do not decompose)
+    - Environmental impact: Energy consumption, pollution, waste generation
+    - three-Rs: Reduce (use reusable alternatives), Reuse (repurpose), Recycle (metal recycling)
+    >>
+7. Batteries:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: N/A ( batteries do not decompose)
+    - Environmental impact: Toxic pollution, waste generation
+    - three-Rs: Reduce (use reusable alternatives), Reuse (repurpose), Recycle (battery recycling)
+    >>
+8. Cell:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: N/A (cells do not decompose)
+    - Environmental impact: Toxic pollution, waste generation
+    - three-Rs: Reduce (use reusable alternatives), Reuse (repurpose), Recycle (cell recycling)
+    >>
+9. Thermometers:
+    - Waste management: Proper disposal, recycling
+    - Decomposition time: N/A (thermometers do not decompose)
+    - Environmental impact: Toxic pollution, waste generation
+    - three-Rs: Reduce (use reusable alternatives), Reuse (repurpose), Recycle (thermometer recycling)
+>>
+10. Aluminum Cans
+    - Material: Aluminum alloy, a common material used for food and beverage packaging.
+    - Waste Type: Metal Waste, which can be recycled and reused.
+    - How to Dispose: Recycle with metal, reducing waste and conserving natural resources. - How to Reuse: Can be reused as a container, providing a creative and eco-friendly solution.
+    - Decomposition Time: Indefinite, as metal materials do not break down easily.
+>>
+11. Metallic Paint
+    - Material: Paint with metal pigments, a common material used for decorative and functional purposes.
+    - Waste Type: Hazardous Waste, which requires specialized disposal and recycling.
+    - How to Dispose: Dispose of at hazardous waste facilities, reducing waste and conserving natural resources.
+    - How to Reuse: Can be reused as a decorative material, providing a creative and eco-friendly solution.
+    - Decomposition Time: Indefinite, as metal materials do not break down easily.
+>>
+12. Iron Nails
+    - Material: Iron alloy, a common material used for construction and manufacturing.
+    - Waste Type: Metal Waste, which can be recycled and reused.
+    - How to Dispose: Recycle with metal, reducing waste and conserving natural resources. - How to Reuse: Can be reused as a construction material, providing a creative and eco-friendly solution.
+    - Decomposition Time: Indefinite, as metal materials do not break down easily.
+>>

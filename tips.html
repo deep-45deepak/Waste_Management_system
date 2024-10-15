@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoCoders Waste Management - Tips</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+        @keyframes spin-slow {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        .animate-float {
+            animation: float 6s ease-in-out infinite;
+        }
+        .animate-spin-slow {
+            animation: spin-slow 20s linear infinite;
+        }
+    </style>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-green-400 via-teal-500 to-blue-500 text-white">
+    <header class="container mx-auto px-4 py-6">
+        <nav class="flex justify-between items-center">
+            <a href="/" class="flex items-center space-x-2 text-2xl font-bold">
+                <i data-lucide="leaf" class="h-8 w-8"></i>
+                <span>EcoCoders</span>
+            </a>
+            <div class="space-x-4">
+                <a href="/ecocoders/index.html" class="hover:underline">Home</a>
+                <a href="/ecocoders/tips.html" class="hover:underline">Tips</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-4 py-12">
+        <section class="text-center mb-16">
+            <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-6 drop-shadow-lg">
+                Eco-Friendly Tips
+            </h1>
+            <p class="text-lg sm:text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
+                Discover practical ways to reduce waste and live more sustainably.
+            </p>
+        </section>
+
+        <section id="tipsList" class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+            <!-- Tips will be dynamically inserted here -->
+        </section>
+
+        <section class="mt-16 text-center">
+            <a href="/" class="inline-flex items-center space-x-2 bg-white text-green-700 px-6 py-3 rounded-full hover:bg-green-100 transition-colors">
+                <i data-lucide="arrow-left" class="w-5 h-5"></i>
+                <span>Back to Home</span>
+            </a>
+        </section>
+    </main>
+
+    <footer class="bg-green-800 py-6 sm:py-8 mt-auto">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-sm sm:text-base">&copy; 2024 EcoCoders. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <div id="commentModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50 hidden">
+        <div class="bg-white rounded-lg p-6 w-full max-w-md relative">
+            <button id="closeModal" class="absolute top-2 right-2 text-gray-500 hover:text-gray-700">
+                <i data-lucide="x" class="w-6 h-6"></i>
+            </button>
+            <h3 class="text-xl font-bold mb-4 text-gray-800">Add a Comment</h3>
+            <form id="commentForm" class="space-y-4">
+                <div>
+                    <label for="author" class="block text-sm font-medium text-gray-700">Your Name</label>
+                    <input
+                        type="text"
+                        id="author"
+                        name="author"
+                        placeholder="Enter your name"
+                        class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-green-500 focus:ring-green-500 text-gray-900 placeholder-gray-500"
+                        required
+                    />
+                </div>
+                <div>
+                    <label for="text" class="block text-sm font-medium text-gray-700">Your Comment</label>
+                    <textarea
+                        id="text"
+                        name="text"
+                        placeholder="Enter your comment"
+                        rows="3"
+                        class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-green-500 focus:ring-green-500 text-gray-900 placeholder-gray-500"
+                        required
+                    ></textarea>
+                </div>
+                <button type="submit" class="w-full bg-green-500 text-white rounded-md py-2 px-4 hover:bg-green-600 transition-colors">
+                    Post Comment
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
