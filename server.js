@@ -42,7 +42,7 @@ searchButton.addEventListener("click", (e) => {
   e.preventDefault();
   content.style.display = "block";
   content.style.padding = "5em";
-  content.style.textAlign = "center";
+  // content.style.textAlign = "center";
   // content.style.width = "60vw";
   // input value of the user.
   const wasteType = searchInput.value.trim().toLowerCase();
@@ -134,6 +134,7 @@ searchButton.addEventListener("click", (e) => {
       });
   } else {
     result.innerText = "Not Found \nSorry we are working on it.";
+    result.style.width = "80vw";
   }
 });
 
@@ -155,20 +156,20 @@ function getImage(input) {
 
   for (const type in wasteTypes) {
     if (wasteTypes[type].includes(input) && type=="glass") {
-      return `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpsFlSIfdL39oySXodjn0XJxScX-y0NucXYg&s`;
+      return `https://media.istockphoto.com/id/1313851024/video/young-man-male-hand-dropping-glass-plastic-bottle-into-recycle-bin-and-there-are-waste.mp4?s=mp4-640x640-is&k=20&c=_n-9ISggtq_vrODOC5GbQDHgwcOHvbGA8Rn6oOKYkZc=`;
     }else if(wasteTypes[type].includes(input) && type=="paper"){
-      return `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNyTnGnqXgV-p_aYKDWoZDtU2-lB8yu1flA&s`;
+      return `https://media.istockphoto.com/id/1446715733/video/white-paper.mp4?s=mp4-640x640-is&k=20&c=Wfh-HmQnsgxUdHCx5UWHOa-d3zZ-_EnyTRQTY0dz7EQ=`;
     }else if(wasteTypes[type].includes(input) && type=="plastic"){
-      return `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgxyxbzXtZ7LZrQ05udDg3N76hoz71LFNUQ&s`;
+      return `https://media.istockphoto.com/id/1129528570/video/waste-pollution-on-beach.mp4?s=mp4-640x640-is&k=20&c=o0ivxphA-fKtiCdR8LYHwIh7Wzl-DXLyQpIEQ3TQulY=`;
     }else if(wasteTypes[type].includes(input) && type=="metal"){
-      return `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAdFSMLp6JlH1mZNtwIzu8ruuiODZzFRdpA&s`;
+      return `https://media.istockphoto.com/id/1393638816/video/teenage-boy-throwing-garbage-to-separated-garbage-bins.mp4?s=mp4-640x640-is&k=20&c=wpTU-5Q3VKy5iEAJRLgVHU1YI8Wwy0QqRc9bv68amnU=`;
     }else if(wasteTypes[type].includes(input) && type=="organic"){
-      return `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkE9G1_ugtQtbKwB5ttfFqqXVF2HgydcKXFQ&s`;
+      return `https://media.istockphoto.com/id/1358881648/video/eco-friendly-asian-lgbtqia-people-are-composting-kitchen-waste-stock.mp4?s=mp4-640x640-is&k=20&c=ATKMs6n_hAL-t119b7tm57KI6G4bvQzjb3y6bzczgRc=`;
     }else if(wasteTypes[type].includes(input) && type=="electronic"){
-      return `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-agIOcuhINXlMViBjEZhpXQCpkk1GQ0I_3g&s`;
+      return `https://media.istockphoto.com/id/1776265487/video/electronic-waste-management-beautiful-asian-woman-puts-electronic-waste-into-a-plastic-bin-to.mp4?s=mp4-640x640-is&k=20&c=AdYQaGAmecrk4oa-XgtjJv883tJ-4GT_FS7Gochf5V8=`;
     }
   }
-  return "https://lottiefiles.com/free-animation/recycle-icon-animation-SFXhVzD3B4";
+  return "https://media.istockphoto.com/id/1157150650/video/colored-garbage-bins-for-environmental-protection.mp4?s=mp4-640x640-is&k=20&c=xASMj0EJH0Mqp7Fcv4O1u-F84hGWZZVcb_rjb6_gtto=";
 }
 
 // image of waste.
@@ -183,43 +184,11 @@ searchButton.addEventListener("click", (e) => {
   activeWasteInfoContainer.innerHTML =
   `
           <div class="flex justify-center items-center">
-              <img src="${image}" alt="${wasteName} waste" class="rounded-lg max-w-full h-auto" />
+               <video control loop autoplay muted style="height:auto;width:auto;" src="${image}" alt="${wasteName} class="rounded-lg min-w-full h-auto" />
           </div>
   `;
-  activeWasteInfoContainer.style.margin = "2em 0em -2em 0em";
-})
+  activeWasteInfoContainer.style.margin = "2em";
+  activeWasteInfoContainer.style.height = "30vh";
+  activeWasteInfoContainer.style.width = "40vw";
+});
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function showWasteInfo(wasteName) {
-  const waste = wasteInfo[wasteName];
-  if (waste) {
-      activeWasteInfoContainer.innerHTML =
-      `
-              <div class="flex justify-center items-center">
-                  <img src="${waste.image}" alt="${wasteName} waste" class="rounded-lg max-w-full h-auto" />
-              </div>
-      `;
-      activeWasteInfoContainer.classList.remove('hidden');
-      setActiveWasteCategory(wasteName);
-  } else {
-      activeWasteInfoContainer.classList.add('hidden');
-      setActiveWasteCategory(null);
-  }
-}
